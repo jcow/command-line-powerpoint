@@ -1,6 +1,6 @@
 # Command Line Powerpoint
 
-Simple script to read a file of notes and create a pagable console window
+Simple script to read a file of notes and create a pageable console window
 
 ## Example Usage
 python powerpoint.py myfile.txt
