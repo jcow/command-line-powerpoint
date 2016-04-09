@@ -19,5 +19,6 @@ python powerpoint.py example.txt
 		It is less nice than page one
 
 ## Navigation
-k then enter to move forward a page
-j then enter to move backward a page
+f or k then enter to move forward a page
+
+j or d then enter to move backward a page
