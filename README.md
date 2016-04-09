@@ -3,7 +3,7 @@
 Simple script to read a file of notes and create a pageable console window
 
 ## Example Usage
-python powerpoint.py myfile.txt
+python powerpoint.py example.txt
 
 ## Example File
 
